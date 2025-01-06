@@ -8,7 +8,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 - 💼 FrontEnd Engineer at Antier Solutions
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+- 📈 Built explorer, NFT marketplace , DAPPs and more, **50m+** hits • **100+** stars on GitHub
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
