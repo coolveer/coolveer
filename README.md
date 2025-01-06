@@ -6,7 +6,7 @@ I'm a self-taught passionate Full Stack developer from India 🇮🇳
 
 **About me**
 
-- 💼 FrontEnd Engineer at Antier Solutions
+- 💼 Fullstack Engineer at Antier Solutions
 
 - 📈 Built explorer, NFT marketplace , DAPPs and more, **50m+** hits • **100+** stars on GitHub
 
