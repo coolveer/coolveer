@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/coolveer"><img width="80%" alt="Hello, I'm Veer. I build products for startups" /></a></p>
+<p align="center">Hello, I'm Veer. I build products for startups</p>
 
 <br />
 
