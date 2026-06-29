@@ -41,7 +41,7 @@ Built solo as Co-Founder &amp; CTO at Ariabatix Labs, from architecture through 
 ## Connect with me 📫
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/veer-pratapsingh">
+  <a href="https://www.linkedin.com/in/veer-pratap-singh">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://slayspace.io">
