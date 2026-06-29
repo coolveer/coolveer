@@ -5,7 +5,7 @@
 🤖 I integrate OpenAI &amp; Anthropic APIs into production systems<br/>
 ⛓ I build full-stack dApps on EVM-compatible chains<br/>
 🧑‍⚖️ Judged 200+ AI solutions at Google for Developers' GenAI Hackathon<br/>
-📬 Reach me at <a href="mailto:coolveer.singh906@gmail.com">coolveer.singh906@gmail.com</a> or on <a href="https://www.linkedin.com/in/veer-pratapsingh">LinkedIn</a>
+📬 Reach me at <a href="mailto:coolveer.singh906@gmail.com">coolveer.singh906@gmail.com</a>, on <a href="https://www.linkedin.com/in/veer-pratap-singh/">LinkedIn</a>, or on <a href="https://x.com/theveer5">X</a>
 </p>
 
 ## Tech Stack 🛠
@@ -26,7 +26,6 @@
 
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolveer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=coolveer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="left">
@@ -41,8 +40,11 @@ Built solo as Co-Founder &amp; CTO at Ariabatix Labs, from architecture through 
 ## Connect with me 📫
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/veer-pratap-singh">
+  <a href="https://www.linkedin.com/in/veer-pratap-singh/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/theveer5">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://slayspace.io">
     <img src="https://img.shields.io/badge/Slay-FF4081?style=for-the-badge&logo=googlechrome&logoColor=white" />
